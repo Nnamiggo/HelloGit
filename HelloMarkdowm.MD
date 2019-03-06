@@ -1,11 +1,13 @@
-#SCOVIA NNAMIGGO
+# SCOVIA NNAMIGGO
 [My Github](https://github.com/Nnamiggo)
-##Education
+## Education
+
 Schools attended | Years attended
 ---------------- | --------------
 Naalya ss Bweyogerere | *2004*
 Masaka Secondary School | _2005-2006_
-###I love these
+
+### I love these
 1. :satisfied:
 2. :relieved:
 3. :nail_care:
